@@ -41,10 +41,9 @@ export default function Portfolio() {
             whileHover={{ scale: 1.05 }}
             className="bg-gray-900 rounded-2xl p-6 shadow-lg border border-gray-800 hover:border-cyan-400 transition"
           >
-            <h3 className="text-xl font-semibold text-white mb-2">Social Icon Toggler </h3>
+            <h3 className="text-xl font-semibold text-white mb-2">Social media toggler</h3>
             <p className="text-gray-400 mb-4">
-            Description:
-Social Icon Toggler is an interactive web application that allows users to dynamically show or hide social media icons on a webpage. The project demonstrates the use of JavaScript, HTML, and CSS to manipulate DOM elements and create a smooth, user-friendly interface.
+            Social Icon Toggler is an interactive web application that allows users to dynamically show or hide social media icons on a webpage. The project demonstrates the use of JavaScript, HTML, and CSS to manipulate DOM elements and create a smooth, user-friendly interface.
 
 Key Features:
 
