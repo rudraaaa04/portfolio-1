@@ -41,11 +41,28 @@ export default function Portfolio() {
             whileHover={{ scale: 1.05 }}
             className="bg-gray-900 rounded-2xl p-6 shadow-lg border border-gray-800 hover:border-cyan-400 transition"
           >
-            <h3 className="text-xl font-semibold text-white mb-2">EduHubs</h3>
+            <h3 className="text-xl font-semibold text-white mb-2">Social Icon Toggler </h3>
             <p className="text-gray-400 mb-4">
-              A web platform for students built using the MERN stack with AI integration, designed to make learning more accessible and collaborative.
+            Description:
+Social Icon Toggler is an interactive web application that allows users to dynamically show or hide social media icons on a webpage. The project demonstrates the use of JavaScript, HTML, and CSS to manipulate DOM elements and create a smooth, user-friendly interface.
+
+Key Features:
+
+Dynamic Toggling: Users can click a button to show or hide social icons.
+
+Smooth Animations: Icons appear/disappear with elegant transitions.
+
+Responsive Design: Icons and toggler work seamlessly across different devices and screen sizes.
+
+Customizable: Users can easily add or remove icons and adjust their style.
+
+Technologies Used:
+
+HTML & CSS – for structure and styling, including hover effects and transitions.
+
+JavaScript – for DOM manipulation, toggling functionality, and interactivity.
             </p>
-            <a href="#" className="text-cyan-400 hover:underline">
+            <a href="https://rudraaaa04.github.io/3Dsocialmedia/" className="text-cyan-400 hover:underline">
               View Project →
             </a>
           </motion.div>
